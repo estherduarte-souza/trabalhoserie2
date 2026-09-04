@@ -1,0 +1,12 @@
+* {    margin: 0;    padding: 0;}
+body {    background-color: #f5eeee;    color: #333;    font-family: 'Roboto', sans-serif;}
+header {    background-color: #633333;    color: white;    text-align: center;    padding: 25px;}
+h1 {    font-size: 35px;    margin-bottom: 10px;}
+main {    margin: 30px;}
+h2 {    color: #633333;    margin-top: 25px;    margin-bottom: 15px;}
+h3 {    margin-top: 15px;    margin-bottom: 5px;}
+p {    margin-bottom: 15px;}
+.texto {    width: 600px;    line-height: 1.5;}
+img {    width: 200px;    margin: 10px;}
+a {    color: #633333;}
+footer {    background-color: #633333;    color: white;    text-align: center;    padding: 15px;    margin-top: 30px;}
